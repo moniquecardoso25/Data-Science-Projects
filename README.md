@@ -8,7 +8,6 @@ Welcome to my Data Science Projects Repository! It contains a collection of my D
 ## Projects
 
 1. [House Price Prediction](https://github.com/moniquecardoso25/Data-Science-Projects/tree/main/House%20Price%20Prediction)
-   
 
 **Description:** This project is a captivating journey of a self-taught data science enthusiast who tackled the challenge of predicting house prices using the Kaggle dataset "House Prices: Advanced Regression Techniques." The goal was to showcase skills in exploratory analytics, feature engineering, and machine learning models.
 
@@ -25,5 +24,8 @@ Welcome to my Data Science Projects Repository! It contains a collection of my D
 - Utilized three machine learning models, with Linear Regression achieving the lowest mean squared error.
 - Validated the Linear Regression model through visualization, confirming its accuracy.
 - Achieved an impressive Kaggle score of 0.25 for house price predictions.
+
+[Check my article on Medium about this project](https://medium.com/@moniquecardoso123/house-price-prediction-advanced-regression-techniques-ba946409551c)
+   
 
 This project showcased the ability to independently tackle real-world data challenges and deliver valuable insights through exploratory analytics and feature engineering. The outcome solidified my understanding of evaluation methodologies and reinforced my passion for data science.
