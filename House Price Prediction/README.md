@@ -1,5 +1,7 @@
 # House Prices Prediction - Advanced Regression Techniques
 
+*I created an article on Medium. Check on the link: https://medium.com/@moniquecardoso123/house-price-prediction-advanced-regression-techniques-ba946409551c*
+
 ## Objective
 
 The aim of this project was to predict house prices using the Kaggle dataset "House Prices: Advanced Regression Techniques." As a self-taught data science enthusiast, I sought to demonstrate my skills in exploratory analytics, feature engineering, and machine learning models.
