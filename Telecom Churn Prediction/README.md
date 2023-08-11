@@ -22,7 +22,6 @@ This project aims to predict customer churn in Telco, a fictional telecom compan
 - Data Visualization using Matplotlib and Seaborn
 - Pandas for data manipulation and analysis
 - Evaluation metrics: accuracy and confusion matrix
-  
 
 ## Conclusion
 
@@ -52,27 +51,26 @@ The model achieved an accuracy of 80%, predicting 460 customer churn cases.
 6. **Loyalty and Tenure:**
    - Tenure Effect: Longer tenure correlated with lower churn probability.
    - Loyal Customers: Longer tenure indicated stronger customer loyalty.
+     
 
-## Recommendations for the Company
-
-Recommendations:
+## Recomendations
 
 **Enhance New Customer Onboarding:**
-   - Improve initial experiences for new customers to boost retention.
+   - Improve the initial experience for new customers to encourage retention.
 
 **Focus on Partner and Dependent Groups:**
-   - Tailor services or incentives for customers without partners or dependents.
+   - Offer tailored services or incentives for customers without partners or dependents.
 
 **Fiber Optic Service Improvement:**
-   - Address Fiber Optic user concerns to enhance satisfaction and retention.
+   - Address concerns of Fiber Optic users to improve satisfaction and retention.
 
-**Strengthen Tech Support and Online Backup:**
-   - Enhance Tech Support and Online Backup services to reduce churn.
+**Tech Support and Online Backup:**
+   - Strengthen Tech Support and Online Backup services to reduce churn.
 
-**Refine Monthly Payment Plans:**
-   - Offer incentives for Month-to-Month customers to consider longer-term plans.
+**Monthly Payment Plan Refinement:**
+   - Provide incentives for Month-to-Month customers to consider longer-term plans.
 
 **Promote Long-Term Engagement:**
-   - Implement strategies to nurture customer loyalty over time.
+   - Implement strategies to maintain customer loyalty over time.
 
-By analyzing churn patterns and implementing the outlined recommendations, the company can decrease churn rates, elevate customer satisfaction, and cultivate lasting relationships, leading to improved business performance.
+By analysing churn patterns and acting upon the outlined recommendations, the company can reduce churn rates, enhance customer satisfaction, and foster long-term relationships, ultimately leading to improved business success.
