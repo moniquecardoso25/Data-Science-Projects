@@ -29,3 +29,27 @@ Welcome to my Data Science Projects Repository! It contains a collection of my D
    
 
 This project showcased the ability to independently tackle real-world data challenges and deliver valuable insights through exploratory analytics and feature engineering. The outcome solidified my understanding of evaluation methodologies and reinforced my passion for data science.
+
+2. [Telecom Price Prediction](https://github.com/moniquecardoso25/Data-Science-Projects/tree/main/Telecom%20Price%20Prediction)
+
+
+**Description:** The objective of this project is to predict customer churn in a telecom company. Customer Churn is the rate at which customers stop doing business with a company or discontinue their services. For that, develop a machine learning model that can predict customers who will leave the company.
+
+**Technologies Used:**
+- Python
+- Exploratory Data Analysis (EDA)
+- Data Preprocessing - Robust Scaler
+- Feature Engineering
+- Logistic Regression, Random Forest Regression, XGB Classifier
+- Data Visualization
+- Encoding Variables using LabelEncoder
+- Evaluation and confusion matrix
+
+**Results:**
+- Understanding of the Business problem.
+- Explored dataset through the graphics.
+- Conducted feature engineering to improve the model performance.
+- Utilized three machine learning models, in which Logistic Regression had the best performance related to others.
+- Achieved 80% of Accuracy, the number of predicted Customer churns was 460.
+- Conclusions and recommendations to the company about the analysis.
+  
