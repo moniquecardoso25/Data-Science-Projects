@@ -30,7 +30,7 @@ Welcome to my Data Science Projects Repository! It contains a collection of my D
 
 This project showcased the ability to independently tackle real-world data challenges and deliver valuable insights through exploratory analytics and feature engineering. The outcome solidified my understanding of evaluation methodologies and reinforced my passion for data science.
 
-2. [Telecom Price Prediction](https://github.com/moniquecardoso25/Data-Science-Projects/tree/main/Telecom%20Price%20Prediction)
+2. [Telecom Churn Prediction](https://github.com/moniquecardoso25/Data-Science-Projects/tree/main/Telecom%20Churn%20Prediction)
 
 
 **Description:** The objective of this project is to predict customer churn in a telecom company. Customer Churn is the rate at which customers stop doing business with a company or discontinue their services. For that, develop a machine learning model that can predict customers who will leave the company.
