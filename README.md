@@ -53,9 +53,9 @@ This project showcased the ability to independently tackle real-world data chall
 - Achieved 80% of Accuracy, the number of predicted Customer churns was 460.
 - Conclusions and recommendations to the company about the analysis.
 
-3.[Credit Card Fraud Detection](https://github.com/moniquecardoso25/Data-Science-Projects/tree/69762c466d7eb2b88442b5fd763862cd6745d0ce/Credit%20Card%20Fraud%20Detection)
+3. [Credit Card Fraud Detection](https://github.com/moniquecardoso25/Data-Science-Projects/tree/69762c466d7eb2b88442b5fd763862cd6745d0ce/Credit%20Card%20Fraud%20Detection)
 
-**Description:** The objective of this project is to predict customer churn in a telecom company. Customer Churn is the rate at which customers stop doing business with a company or discontinue their services. For that, develop a machine learning model that can predict customers who will leave the company.
+**Description:** The challenge is to recognize fraudulent credit card transactions so that the customers of credit card companies are not charged for items that they did not purchase.
 
 **Technologies Used:**
 - Google Colab
@@ -68,9 +68,9 @@ This project showcased the ability to independently tackle real-world data chall
 - Evaluation model
 - 
 **Results:**
-- Understanding of the Business problem.
-- Explored dataset through the graphics.
-- Conducted feature engineering to improve the model performance.
+- Understanding of the Business problem
+- Explored dataset through the graphics
+- Conducted feature engineering to improve the model performance
 - Utilized three machine learning models, in which Logistic Regression had the best performance related to others.
 - Achieved 99.96% of Accuracy using Logistic Regression and 99.95% with MLP Classifier.
 
