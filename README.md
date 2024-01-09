@@ -30,7 +30,7 @@ Welcome to my Data Science Projects Repository! It contains a collection of my D
 
 This project showcased the ability to independently tackle real-world data challenges and deliver valuable insights through exploratory analytics and feature engineering. The outcome solidified my understanding of evaluation methodologies and reinforced my passion for data science.
 
-2. [Telecom Churn Prediction](https://github.com/moniquecardoso25/Data-Science-Projects/tree/main/Telecom%20Churn%20Prediction)
+### 2. [Telecom Churn Prediction](https://github.com/moniquecardoso25/Data-Science-Projects/tree/main/Telecom%20Churn%20Prediction)
 
 
 **Description:** The objective of this project is to predict customer churn in a telecom company. Customer Churn is the rate at which customers stop doing business with a company or discontinue their services. For that, develop a machine learning model that can predict customers who will leave the company.
@@ -53,7 +53,7 @@ This project showcased the ability to independently tackle real-world data chall
 - Achieved 80% of Accuracy, the number of predicted Customer churns was 460.
 - Conclusions and recommendations to the company about the analysis.
 
-3. [Credit Card Fraud Detection](https://github.com/moniquecardoso25/Data-Science-Projects/tree/69762c466d7eb2b88442b5fd763862cd6745d0ce/Credit%20Card%20Fraud%20Detection)
+### 3. [Credit Card Fraud Detection](https://github.com/moniquecardoso25/Data-Science-Projects/tree/69762c466d7eb2b88442b5fd763862cd6745d0ce/Credit%20Card%20Fraud%20Detection)
 
 **Description:** The challenge is to recognize fraudulent credit card transactions so that the customers of credit card companies are not charged for items that they did not purchase.
 
