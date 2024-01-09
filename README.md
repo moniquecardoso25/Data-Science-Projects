@@ -66,7 +66,7 @@ This project showcased the ability to independently tackle real-world data chall
 - Data Visualization
 - Robust Scaler and sample to deal with imbalanced data
 - Evaluation model
-- 
+  
 **Results:**
 - Understanding of the Business problem
 - Explored dataset through the graphics
